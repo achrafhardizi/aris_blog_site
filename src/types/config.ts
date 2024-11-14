@@ -30,7 +30,7 @@ export type SiteConfig = {
 
 export type Favicon = {
   src: string
-  theme?: 'light' | 'dark'
+  theme?: 'light'
   sizes?: string
 }
 
@@ -69,7 +69,6 @@ export type LicenseConfig = {
 
 export type LIGHT_DARK_MODE =
   | typeof LIGHT_MODE
-  | typeof DARK_MODE
   | typeof AUTO_MODE
 
 export type BlogPostData = {
