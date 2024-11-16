@@ -9,7 +9,6 @@ category: Agony
 draft: false
 ---
 
-
 # When Pretending Hurts More Than the Truth: Reflections on Love and Hidden Agony
 
 I woke up one day, and everything felt… off. Familiar faces surrounded me, bringing a sense of love, care, and warmth, but something inside stirred uncomfortably. My head felt heavy, as if it carried an unseen weight. And then it hit me: that weight was **agony**. Agony that had nestled in my heart, now surfacing with every small reminder of the things I tried so hard to ignore.
@@ -24,6 +23,8 @@ I think about what it means to smile in the face of melancholy. The smile grows 
 ---
 
 ## The Illusion of Togetherness
+
+![distance Connection](./distance_connection.jpeg)
 
 It’s strange, isn’t it? The things that are meant to bring us closer—love, commitment, trust—can sometimes feel like barriers. They’re supposed to bind us in mutual understanding, but when we keep secrets, when we pretend, these very things start to feel like illusions. We feel close, but at the same time, it feels like we’re chasing shadows in the dark, trying to grasp something real that’s just out of reach.
 
