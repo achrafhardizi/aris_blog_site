@@ -10,6 +10,8 @@ draft: false
 
 # The Girl in the Park: A Kafkaesque Encounter
 
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?bvid=BV1fK4y1s7Qf&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 It was one of those days when the sky seemed undecided—clouds drifting lazily, neither promising rain nor revealing the sun. In the middle of a quiet park stood a girl on a wooden bridge, gazing at the stream below. Her posture was serene, but her face carried an expression of deep contemplation, as if she were deciphering a secret that the world had forgotten.
 
 I sat on a bench nearby, curious. She wasn’t looking at her phone or reading a book, as most people in the park would. She simply observed the water as it flowed, unhurried, yet relentless. Time seemed irrelevant in her world.
